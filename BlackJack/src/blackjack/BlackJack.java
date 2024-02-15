@@ -6,7 +6,8 @@ package blackjack;
 
 /**
  *
- * @author Komal Kahlon
+ * @author Gurkirat Singh
+ 15/2/2024
  */
 public class BlackJack {
 
